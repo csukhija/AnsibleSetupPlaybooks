@@ -1,7 +1,7 @@
 Ansible Role for Jenkins
 ========================
 
-Installs and completely configures Jenkins using Ansible.
+Installs and completely configures Jenkins using Ansible. Full Automation Possible 
 
 This role is used when you want all your Jenkins configuration 
 in version control so you can deploy Jenkins repeatably 
@@ -274,9 +274,3 @@ Author Information
 ------------------
 
 Made with love by Emmet O'Grady.
-
-I am the founder of [NimbleCI](https://nimbleci.com) which 
-builds Docker containers for feature branch workflow projects in Github.
-
-I blog on my [personal blog](http://blog.emmetogrady.com) and 
-about Docker related things on the [NimbleCI blog](https://blog.nimbleci.com).
